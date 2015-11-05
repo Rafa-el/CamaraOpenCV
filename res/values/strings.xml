@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Camara</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_manejador_camara">ManejadorCamara</string>
+    <string name="menu_take_photo">Tomar</string>
+    <string name="menu_change_color">Cambiar color</string>
+    <string name="menu_change_camera">Cambiar camara</string>
+    <string name="menu_change_resolution">Cambiar resolucion</string>
+
+</resources>

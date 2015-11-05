@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_tomar_foto" android:showAsAction="always|withText"
+     android:title="@string/menu_take_photo"> </item>
+    <item android:id="@+id/menu_change_color" android:showAsAction="always|withText"
+     android:title="@string/menu_change_color">     </item>
+    <item android:id="@+id/menu_change_camera" android:showAsAction="always|withText"
+     android:title="@string/menu_change_camera">     </item>
+    <item android:id="@+id/menu_change_resolution" android:showAsAction="always|withText"
+     android:title="@string/menu_change_resolution">     </item>
+
+</menu>
